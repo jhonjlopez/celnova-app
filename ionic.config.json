@@ -1,0 +1,7 @@
+{
+  "name": "celnova-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
