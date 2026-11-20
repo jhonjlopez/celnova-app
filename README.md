@@ -135,13 +135,6 @@ ionic cap run ios
 
 ---
 
-## Pruebas
-
-Ejecutar las pruebas unitarias y de integración:
-ng test
-
----
-
 ## Autor
 
 - **Nombre:** Jhon Lopez
