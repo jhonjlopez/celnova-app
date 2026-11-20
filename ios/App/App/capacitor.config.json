@@ -1,0 +1,12 @@
+{
+	"appId": "com.celnova.app",
+	"appName": "celnova-app",
+	"webDir": "www",
+	"packageClassList": [
+		"AppPlugin",
+		"CAPCameraPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin"
+	]
+}
