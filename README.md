@@ -106,7 +106,7 @@ La aplicación incorpora capacidades mediante Capacitor:
 
 ### Repositorio
 Clonar el repositorio:
-https://github.com/username/cellexa-app.git
+https://github.com/jhonjlopez/celnova-app.git
 
 ### Dependencias
 Instalar las dependencias del proyecto:
@@ -142,25 +142,7 @@ ng test
 
 ---
 
-## Estado del Proyecto
-
-- [x] Funcionalidades activas.
-- [x] Aplicación Web funcional.
-- [x] Aplicación Android.
-- [x] Aplicación iOS.
-- [x] Checkout y métodos de pago implementados.
-- [x] Integración con APIs y EIE (Entorno de Ejecución).
-- [x] Preparado para despliegue.
-
----
-
 ## Autor
 
-- **Nombre:** Joan Arias
-- **Rol:** Desarrollador de Software | Ionic · Angular · Capacitor · Desarrollo Híbrido
-
----
-
-## Licencia
-
-Proyecto desarrollado con fines académicos, demostrativos y de aprendizaje.
+- **Nombre:** Jhon Lopez
+- Proyecto desarrollado con fines académicos, demostrativos y de aprendizaje.
